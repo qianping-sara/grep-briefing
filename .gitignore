@@ -1,0 +1,15 @@
+# 不提交 PDF（包括 doing-business-pdfs 目录里的）
+*.pdf
+
+# Python / 虚拟环境
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 编辑器 / 系统文件
+.DS_Store
+.idea/
+.vscode/
+
